@@ -4,9 +4,6 @@
 
 #include <kernel_operator.h>
 #include <simt_api/asc_simt.h>
-#include <simt_api/device_atomic_functions.h>
-#include <simt_api/device_sync_functions.h>
-#include <simt_api/device_warp_functions.h>
 #include <c_api/sync/sync.h>
 #include <c_api/vector_datamove/vector_datamove.h>
 

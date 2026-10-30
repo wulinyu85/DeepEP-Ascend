@@ -10,9 +10,6 @@
 
 #include <kernel_operator.h>
 #include <simt_api/asc_simt.h>
-#include <simt_api/device_functions.h>
-#include <simt_api/device_atomic_functions.h>
-#include <simt_api/device_sync_functions.h>
 #include <c_api/sync/sync.h>
 #include <c_api/asc_simd.h>
 #include <utils/debug/asc_time.h>
